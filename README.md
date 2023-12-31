@@ -1,3 +1,4 @@
 # fit-first
-This is my first Git repo 
-Author muhammar rehan
+This is my first Git repo
+<br>
+Author - Muhammad Rehan
